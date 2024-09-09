@@ -1,0 +1,11 @@
+{
+  "name": "100% OnChain",
+  "description": "Collection of NFTs 100% on-chain.",
+  "image": "https://turtlpass.com/img/blockchain-seeds.png",
+  "cover_image": "https://turtlpass.com/img/blockchain-banner.jpg",
+  "royalty_params": {
+    "royalty_factor": 50,
+    "royalty_base": 1000,
+    "royalty_address": "0QB7JVsPoDm8SqHL_X4rzwk7D7uRIIkvNbRTPgDTB0DFokjm"
+  }
+}

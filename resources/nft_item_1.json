@@ -1,0 +1,15 @@
+{
+  "name": "#001",
+  "description": "OnChain NFT.",
+  "image_path": "nft_item.png",
+  "attributes": [
+    {
+      "trait_type": "Metadata",
+      "value": "OnChain"
+    },
+    {
+      "trait_type": "Image",
+      "value": "OnChain"
+    }
+  ]
+}
